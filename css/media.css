@@ -1,0 +1,72 @@
+@media (max-widht:960px){
+    .container{
+        margin: 0 auto;
+        max-width: 93.5%;
+        padding: 0 5px;;
+    }
+    .header__container {
+        max-width: 888px;
+    }
+.header__content-wrap-img {
+    max-width: 181px;
+}
+    .hero{
+        padding-top: 22%;
+    }
+    .about__container{
+        max-width: 742px;
+    }
+    .benefits-item {
+        min-height: 118px;
+    }
+    .services__item {
+        height: 210px;
+    }
+    .otzv__item {
+        width: 400px;
+        height: 120px;
+    }
+    .example__item {
+        height: 210px;
+        }
+        .footer__list {
+overflow: hidden;
+justify-content: space-between;
+        }
+}
+@media (max-widht:768px){
+    .container{
+        margin: 0 auto;
+        max-width: 93.5%;
+        padding: 0 5px;;
+    }
+    .header__container {
+        max-width: 723px;
+    }
+.header__content-wrap-img {
+    max-width: 181px;
+}
+    .hero{
+        padding-top: 22%;
+    }
+    .about__container{
+        max-width: 646px;
+    }
+    .benefits-item {
+        min-height: 123px;
+    }
+    .services__item {
+        height: 168px;
+    }
+    .otzv__item {
+        width: 320px;
+        height: 96px;
+    }
+    .example__item {
+        height: 168px;
+        }
+        .footer__list {
+overflow: hidden;
+justify-content: space-between;
+        }
+}
